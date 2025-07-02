@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(255, 101, 101);
+    font-family: "Verdana", "DejaVu Sans", sens-serif;
+}
+
+#sec {
+    color: rgb(46, 46, 255);
+    font-size: 36px;
+
+}
+
+.fs {
+    font-size: 24px;
+}
+
+#frt{
+    background-color: rgb(142, 241, 142);
+    font-weight: bold;
+}
